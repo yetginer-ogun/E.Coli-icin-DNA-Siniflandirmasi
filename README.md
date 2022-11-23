@@ -1,1 +1,1 @@
-# E.Coli-icin-DNA-Siniflandirmasi
+Django ile web uygulaması geliştirilip AWS üzerinden yayınlanacak.
